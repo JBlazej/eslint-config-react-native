@@ -1,5 +1,5 @@
 {
-  "name": "@jan/eslint-config-react-native",
+  "name": "@janblazej/eslint-config-react-native",
   "version": "0.0.1",
   "description": "Opinionated ESLint config for React Native projects with TypeScript, Prettier, accessibility, and import sorting support.",
   "main": "index.js",
