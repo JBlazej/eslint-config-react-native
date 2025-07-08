@@ -1,7 +1,7 @@
 {
   "name": "@jan/eslint-config-react-native",
   "version": "0.0.1",
-  "description": "ESLint configuration for React Native projects",
+  "description": "Opinionated ESLint config for React Native projects with TypeScript, Prettier, accessibility, and import sorting support.",
   "main": "index.js",
   "author": "Jan Blazej",
   "license": "MIT",
@@ -10,9 +10,29 @@
   "exports": {
     ".": "./index.js"
   },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "react-native",
+    "typescript",
+    "prettier",
+    "eslint-plugin",
+    "lint",
+    "javascript",
+    "react",
+    "a11y",
+    "import-sorting"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janblazej/eslint-config-react-native.git"
+  },
+  "bugs": {
+    "url": "https://github.com/janblazej/eslint-config-react-native/issues"
+  },
+  "homepage": "https://github.com/janblazej/eslint-config-react-native#readme",
   "peerDependencies": {
     "@eslint/js": "^9.27.0",
-    "eslint": "^9.27.0",
     "eslint-plugin-sort-keys-fix": "^1.1.2",
     "eslint-config-expo": "~9.2.0",
     "eslint-config-prettier": "^10.1.5",
