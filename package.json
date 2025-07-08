@@ -1,6 +1,6 @@
 {
   "name": "@janblazej/eslint-config-react-native",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Opinionated ESLint config for React Native projects with TypeScript, Prettier, accessibility, and import sorting support.",
   "main": "index.js",
   "author": "Jan Blazej",
